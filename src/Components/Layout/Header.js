@@ -20,7 +20,7 @@ const Header = () => {
   };
 
   return (
-    <div className='iconstop'>
+    <div className='iconstop '>
       <div className="fixed top-0 left-0 w-full bg-blue-500 shadow-lg z-50">
         <div className="max-w-7xl mx-auto px-4 py-3 flex text-white justify-between items-center">
           <div className="text-xs sm:text-xsm">
