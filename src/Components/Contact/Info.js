@@ -41,8 +41,8 @@ const Contact = () => {
     <div className="contact-info-content">
       <h5 className="text-xl font-semibold mb-2 text-gray-800">Email Us</h5>
       <p className="text-gray-600">
-        <a href="mailto:support@marwarpay.com" className="text-blue-600 hover:underline">
-          support@marwarpay.com
+        <a href="mailto:support@zanithpay.com" className="text-blue-600 hover:underline">
+          support@zanithpay.com
         </a>
       </p>
     </div>

@@ -21,7 +21,7 @@ const servicesData = [
   },
   {
     title: 'Recharge',
-    content: 'Marwarpay currently provide Recharge facility to all Leading telecom operator mobile users Like BSNL, Reliance-Jio, Airtel, Vodafone, Idea, Telenor . . .',
+    content: 'ZanithPay currently provide Recharge facility to all Leading telecom operator mobile users Like BSNL, Reliance-Jio, Airtel, Vodafone, Idea, Telenor . . .',
     image: img3, // Replace with your image path
   },
   {

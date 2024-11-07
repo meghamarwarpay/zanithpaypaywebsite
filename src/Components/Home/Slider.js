@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css'; // Import the carousel styles
-import img from '../../assets/images/1.jpg';
+import img from '../../assets/images/1.jpeg';
 import img1 from '../../assets/images/2.jpeg';
-import img2 from '../../assets/images/3.jpg';
-import img3 from '../../assets/images/5.jpg';
+import img2 from '../../assets/images/3.jpeg';
+import img3 from '../../assets/images/5.jpeg';
 
 export default function ImageCarousel() {
     const images = [

@@ -23,8 +23,8 @@ const Agent = () => {
                         <FontAwesomeIcon icon={faDownload} className="text-2xl" />
                       </div>
                       <div className="ml-4">
-                        <h4 className="text-lg font-semibold">Download Marwarpay App</h4>
-                        <p className="text-sm text-gray-600">Download &amp; Install Marwarpay App from Google Play Store</p>
+                        <h4 className="text-lg font-semibold">Download ZanithPay App</h4>
+                        <p className="text-sm text-gray-600">Download &amp; Install ZanithPay App from Google Play Store</p>
                       </div>
                     </div>
 

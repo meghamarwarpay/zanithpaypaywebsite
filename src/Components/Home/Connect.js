@@ -25,7 +25,7 @@ export default function Contact() {
                 </li>
                 <li className="flex items-center">
                   <FontAwesomeIcon icon={faEnvelope} className="text-xl text-blue-500 mr-3" />
-                  <a href="mailto:support@marwarpay.com" className="text-primary font-bold">support@marwarpay.com</a>
+                  <a href="mailto:support@zanithpay.com" className="text-primary font-bold">support@zanithpay.com</a>
                 </li>
                 <li className="flex items-center">
                   <FontAwesomeIcon icon={faPhoneVolume} className="text-xl text-green-500 mr-3" />

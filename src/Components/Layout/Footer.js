@@ -93,8 +93,8 @@ const Footer = () => {
                     <FontAwesomeIcon icon={faMapLocationDot} className="mr-2" />9 Dukan Kalwar Road,Jhotwara Jaipur,Rajasthan PIN: 302012
                   </li>
                   <li>
-                    <Link href="mailto:support@marwarpay.com" className="text-white">
-                      <FontAwesomeIcon icon={faEnvelope} className="mr-2" /> support@marwarpay.com
+                    <Link href="mailto:support@zanithpay.com" className="text-white">
+                      <FontAwesomeIcon icon={faEnvelope} className="mr-2" /> support@zanithpay.com
                     </Link>
                   </li>
                 </ul>
@@ -107,7 +107,7 @@ const Footer = () => {
         <div className="container mx-auto">
           <div className="row flex justify-between items-center">
             <div className="col-md-6 text-white">
-            MARWARPAY PRIVATE LIMITED © {currentYear}</div>
+            ZanithPay PRIVATE LIMITED © {currentYear}</div>
             <div className="col-md-6">
               <ul className="footer-social flex space-x-4 justify-end">
                 <li>

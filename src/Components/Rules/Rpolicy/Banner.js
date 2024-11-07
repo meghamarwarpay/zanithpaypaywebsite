@@ -15,8 +15,8 @@ export default function Banner() {
       </div>
 
       {/* Centered Text */}
-      <div className="relative z-10 flex items-center justify-center h-full">
-        <h1 className="text-5xl font-bold text-black pt-20">Refund & Cancellation</h1>
+      <div className="relative z-10 flex items-center justify-center h-full pt-10">
+        <h1 className="text-5xl font-bold text-black ">Refund & Cancellation</h1>
       </div>
     </div>
   );

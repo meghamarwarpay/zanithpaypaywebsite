@@ -30,8 +30,8 @@ const Header = () => {
           <div className="flex items-center space-x-4 ">
           <div className="text-xs sm:text-xsm text-gray-900 text-white">
   <FontAwesomeIcon icon={faEnvelope} className="mr-2 text-white"  size="sm"  />
-  <Link href="mailto:support@marwarpay.com" className="email-text text-white">
-    support@marwarpay.com
+  <Link href="mailto:support@zanithpay.com" className="email-text text-white">
+    support@zanithpay.com
   </Link>
 </div>
 

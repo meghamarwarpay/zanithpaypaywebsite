@@ -5,7 +5,7 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css'; // Import carous
 const testimonials = [
   {
     name: 'John Doe',
-    feedback: 'MarwarPay has transformed the way I handle payments. Highly recommend!',
+    feedback: 'ZanithPay has transformed the way I handle payments. Highly recommend!',
     designation: 'Business Owner',
   },
   {

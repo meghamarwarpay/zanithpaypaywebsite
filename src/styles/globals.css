@@ -44,7 +44,9 @@ overflow-x: hidden;
     }
   }
   
-
+  .iconstop {
+    margin-bottom: 92px;
+}
   .carousel-wrapper {
     width: 100%; /* Full width */
     max-height: 430px; /* Limit the height */
