@@ -78,10 +78,10 @@ const Header = () => {
               </button>
               {isDropdownOpen && (
                 <div className="absolute left-0 w-40 bg-white shadow-lg z-10">
-                  <Link href="https://users.yunicare.in/login" className="block px-4 py-2 text-gray-900 hover:text-blue-500 ">
+                  <Link href="http://users.zanithpay.com/login" className="block px-4 py-2 text-gray-900 hover:text-blue-500 ">
                     User Login
                   </Link>
-                  <Link href="https://admin.yunicare.in/" className="block px-4 py-2 text-gray-900 hover:text-blue-500 ">
+                  <Link href="http://admin.zanithpay.com/" className="block px-4 py-2 text-gray-900 hover:text-blue-500 ">
                     Team Login
                   </Link>
                 </div>
