@@ -85,12 +85,12 @@ const Footer = () => {
                 <h4 className="footer-widget-title text-white mb-4">Contact Us</h4>
                 <ul className="footer-contact space-y-2">
                   <li>
-                    <Link href="tel:+91-8619082889" className="text-white">
-                      <FontAwesomeIcon icon={faPhoneVolume} className="mr-2" />+91-8619082889
+                    <Link href="tel:+91-9216514437" className="text-white">
+                      <FontAwesomeIcon icon={faPhoneVolume} className="mr-2" />+91-9216514437
                     </Link>
                   </li>
                   <li className="text-white">
-                    <FontAwesomeIcon icon={faMapLocationDot} className="mr-2" />9 Dukan Kalwar Road,Jhotwara Jaipur,Rajasthan PIN: 302012
+                    <FontAwesomeIcon icon={faMapLocationDot} className="mr-2" />PLOT NO. C-41 BLOCK C MANGALAM CITY HATHOJ BULIDING: NIRMALA DEVI STREET: KALWAR ROAD PIN CODE - 302012
                   </li>
                   <li>
                     <Link href="mailto:support@zanithpay.com" className="text-white">
