@@ -81,7 +81,7 @@ const Header = () => {
                   <Link href="http://users.zanithpay.com/login" className="block px-4 py-2 text-gray-900 hover:text-blue-500 ">
                     User Login
                   </Link>
-                  <Link href="https://retailor.zanithpay.com/login/" className="block px-4 py-2 text-gray-900 hover:text-blue-500 ">
+                  <Link href="https://retailor.zanithpay.com/login" className="block px-4 py-2 text-gray-900 hover:text-blue-500 ">
                   Retailor Login
                   </Link>
                   <Link href="http://admin.zanithpay.com/" className="block px-4 py-2 text-gray-900 hover:text-blue-500 ">
